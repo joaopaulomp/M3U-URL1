@@ -60,3 +60,4 @@ Qualquer lista poderá ser adicionada no painel iptvsmarters e na webtv.
 | LISTA IPTV (16) |866582838               |159759854                              |http://cdn.mp77.site                    |
 | LISTA IPTV (17) |70361922648             |57120825582                            |http://zuts.ch                          |
 | LISTA IPTV (18) |162154782               |978753257                              |http://jrplay.online                    |
+| LISTA IPTV (19) |l52aq6rr                |23z5c2h5                               |http://2025easy.lat                     |
