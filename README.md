@@ -61,3 +61,4 @@ Qualquer lista poderá ser adicionada no painel iptvsmarters e na webtv.
 | LISTA IPTV (17) |70361922648             |57120825582                            |http://zuts.ch                          |
 | LISTA IPTV (18) |162154782               |978753257                              |http://jrplay.online                    |
 | LISTA IPTV (19) |40168611                |47348103                               |http://2025easy.lat                     |
+| LISTA IPTV (20) |adaosul                 |adao1966                               |http://brtwo.foo                        |
